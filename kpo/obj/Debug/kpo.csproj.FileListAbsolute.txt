@@ -1,0 +1,8 @@
+C:\Users\cisco\source\repos\kpo\kpo\bin\Debug\kpo.exe.config
+C:\Users\cisco\source\repos\kpo\kpo\bin\Debug\kpo.exe
+C:\Users\cisco\source\repos\kpo\kpo\bin\Debug\kpo.pdb
+C:\Users\cisco\source\repos\kpo\kpo\obj\Debug\kpo.csproj.AssemblyReference.cache
+C:\Users\cisco\source\repos\kpo\kpo\obj\Debug\kpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\source\repos\kpo\kpo\obj\Debug\kpo.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\kpo\kpo\obj\Debug\kpo.exe
+C:\Users\cisco\source\repos\kpo\kpo\obj\Debug\kpo.pdb
